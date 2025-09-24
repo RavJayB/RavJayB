@@ -31,7 +31,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
-<h3 align="center"> DevOps Engineer & AI/Data Science Enthusiast - passionate about building scalable systems and intelligent solutions.</h3>
+<h3 align="center"> DevOps-focused and AI/Data Science enthusiast, building scalable systems and intelligent solutions.</h3>
 
 
 ---
