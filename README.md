@@ -1,7 +1,9 @@
 
 ###
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
-<h3 align="center">A passionate DevOps and Ai/Data Science Enthusiast from Sri Lanka</h3>
+<!-- 🚀 DevOps Engineer & 🤖 AI/Data Science Enthusiast passionate about building scalable systems and intelligent solutions. -->
+<h3 align="center">🚀 A passionate DevOps Engineer and AI/Data Science enthusiast, interested in building scalable systems and intelligent solutions.</h3>
+<!-- <h3 align="center">A passionate DevOps and Ai/Data Science Enthusiast from Sri Lanka</h3> -->
   <img align="right" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravjayb&label=Profile%20views&color=0e75b6&style=flat" alt="ravjayb" /> </p>
