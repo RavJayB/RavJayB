@@ -53,7 +53,7 @@
       <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkc2V6NnBsc2IxODZ6aDJybThocDV6ZGZxeDl2c3prY3ByNGszbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
            alt="Ravindu GIF"
            style="max-width:320px; width:100%; height:auto; border-radius:6px;" /> -->
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tlmanz&layout=compact&langs_count=8&theme=tokyonight" alt="Ravindu GIF"
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavJayb&layout=compact&langs_count=8&theme=tokyonight" alt="Ravindu GIF"
            style="max-width:320px; width:100%; height:auto; border-radius:6px;"/>
     </td>
   </tr>
