@@ -1,5 +1,3 @@
-
-###
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
 <!-- 🚀 DevOps Engineer & 🤖 AI/Data Science Enthusiast passionate about building scalable systems and intelligent solutions. -->
 <h3 align="center">🚀 A passionate DevOps Engineer and AI/Data Science enthusiast, interested in building scalable systems and intelligent solutions.</h3>
