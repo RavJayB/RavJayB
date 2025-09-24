@@ -43,7 +43,7 @@
   <tr>
     <td valign="top" width="65%">
       <ul>
-        <li>🎓 <strong>Graduated:</strong> BEng (Hons) Software Engineering, <em>University of Westminster</em>.</li>
+        <li>🎓 <strong>Graduated:</strong> BEng (Hons) Software Engineering, Informatics Institute of Technology (IIT) affiliated with <em>University of Westminster</em>.</li>
         <li>🌱 <strong>Passionate about:</strong> Cloud Architecture, DevOps practices, Infrastructure as Code, and Programming.</li>
         <li>🔭 <strong>Currently:</strong> Enhancing data models in <a href="https://github.com/RavJayB/TeaOptima">TeaOptima</a> 🍃 — a tea leaf quality prediction &amp; forecasting application.</li>
         <li>✉️ <strong>Contact:</strong> <a href="mailto:ravindujayb@gmail.com">ravindujayb@gmail.com</a> — I’ll respond as soon as I can.</li>
