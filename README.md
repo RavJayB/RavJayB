@@ -1,9 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ravindu</h1>
-<h3 align="center">🚀 DevOps Engineer & 🤖 AI/Data Science Enthusiast — passionate about building scalable systems and intelligent solutions.</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ravjayb&label=Profile%20views&color=0e75b6&style=flat" alt="ravjayb" />
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ravindu-j-bandara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/RedB97" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:ravindujayb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/RavJayB" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RavJayB&"  />
+</div> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravjayb&label=Visitors&color=0e75b6&style=flat" alt="ravjayb" />
 </p>
+
+###
+
+<h1 align="center">Hi 👋, I'm Ravindu</h1>
+<h3 align="center"> DevOps Engineer & AI/Data Science Enthusiast - passionate about building scalable systems and intelligent solutions.</h3>
+
 
 ---
 
@@ -53,10 +82,3 @@
 
 ---
 
-### 🤝🏻 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/ravindu-j-bandara"><img src="https://img.shields.io/badge/-Ravindu%20Bandara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ravindujayb@gmail.com"><img src="https://img.shields.io/badge/-ravindujayb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/RavJayB"><img src="https://img.shields.io/badge/-@RavJayB-30B980?style=flat&logo=telegram&logoColor=white"/></a>
-</p>
