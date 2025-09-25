@@ -36,25 +36,26 @@
 
 ---
 
+<!-- Two-column layout: left = text (HTML list), right = image -->
+<table style="width:100%; table-layout:fixed;">
+  <tr style="vertical-align:top;">
+    <td width="65%">
+      
 ### 👨🏻‍💻 About Me
 
-<!-- Two-column layout: left = text (HTML list), right = image -->
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <ul>
-        <li>🎓 <strong>Graduated:</strong> BEng (Hons) Software Engineering, Informatics Institute of Technology (IIT) affiliated with <em>University of Westminster</em>.</li>
-        <li>🌱 <strong>Passionate about:</strong> Cloud Architecture, DevOps practices, Infrastructure as Code, and Programming.</li>
-        <li>🔭 <strong>Currently:</strong> Enhancing data models in <a href="https://github.com/RavJayB/TeaOptima">TeaOptima</a> 🍃 — a tea leaf quality prediction &amp; forecasting application.</li>
-        <li>✉️ <strong>Contact:</strong> <a href="mailto:ravindujayb@gmail.com">ravindujayb@gmail.com</a> — I’ll respond as soon as I can.</li>
-      </ul>
+- 🎓 Graduated: BEng (Hons) Software Engineering, Informatics Institute of Technology (IIT) affiliated with *University of Westminster*  
+
+- 🌱 Passionate about: Cloud Architecture, DevOps practices, Infrastructure as Code, and Programming  
+
+- 🔭 Currently: Enhancing data models in [TeaOptima](https://github.com/RavJayB/TeaOptima) 🍃 — a tea leaf quality prediction & forecasting application  
+
+- ✉️ Contact: [ravindujayb@gmail.com](mailto:ravindujayb@gmail.com) — I’ll respond as soon as I can  
+
     </td>
-    <td valign="top" width="35%" align="right">
-      <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkc2V6NnBsc2IxODZ6aDJybThocDV6ZGZxeDl2c3prY3ByNGszbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
-           alt="Ravindu GIF"
-           style="max-width:320px; width:100%; height:auto; border-radius:6px;" /> -->
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavJayb&layout=compact&langs_count=8&theme=tokyonight" alt="Ravindu GIF"
-           style="max-width:320px; width:100%; height:auto; border-radius:6px;"/>
+    <td width="35%" align="right" style="height:100%;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavJayb&layout=compact&langs_count=8&theme=tokyonight" 
+           alt="Ravindu Stats"
+           style="width:100%; height:100%; object-fit:cover; border-radius:6px;"/>
     </td>
   </tr>
 </table>
