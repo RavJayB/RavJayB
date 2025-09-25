@@ -29,8 +29,14 @@
 </p>
 
 ###
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi+There+%F0%9F%91%8B+I+am+Ravindu+Bandara" 
+         alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I'm Ravindu</h1>
+<!-- <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I'm Ravindu</h1> -->
 <h3 align="center"> DevOps-focused and AI/Data Science enthusiast, building scalable systems and intelligent solutions.</h3>
 
 
@@ -64,6 +70,7 @@
 ---
 
 ### 🛠 Tech Stack
+
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
