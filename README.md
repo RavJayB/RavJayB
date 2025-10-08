@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.ravindubandara.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=nextdotjs&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Web logo"  />
+    <img src="https://img.shields.io/static/v1?message=Web&logo=nextdotjs&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Web logo"  />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ravindu-j-bandara/" target="_blank">
