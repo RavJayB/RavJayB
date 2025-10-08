@@ -59,7 +59,9 @@
 
 - 🔭 Currently: Enhancing data models in [TeaOptima](https://github.com/RavJayB/TeaOptima) 🍃 — a tea leaf quality prediction & forecasting application  
 
-- ✉️ Contact: [ravindujayb@gmail.com](mailto:ravindujayb@gmail.com) — I’ll respond as soon as I can  
+- ✉️ Contact: [ravindujayb@gmail.com](mailto:ravindujayb@gmail.com) — I’ll respond as soon as I can
+
+- 🌎 Visit my portfolio at : [www.ravindubandara.dev](https://www.ravindubandara.dev) 
 
     </td>
     <td width="35%" align="right" style="height:100%;">
